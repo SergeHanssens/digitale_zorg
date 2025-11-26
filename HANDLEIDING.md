@@ -54,7 +54,7 @@ Ga naar [nodejs.org](https://nodejs.org/) en download de **LTS versie**. Install
 
 **Optie A: Via Git**
 ```bash
-git clone https://github.com/JOUW-USERNAME/inclusiehelper.git
+git clone https://github.com/SergeHanssens/digitale_zorg.git
 ```
 
 **Optie B: Als ZIP**
@@ -387,7 +387,7 @@ Bekijk en beheer opgeslagen gesprekken.
 
 ## 🆘 Hulp nodig?
 
-- Open een [GitHub Issue](https://github.com/JOUW-USERNAME/inclusiehelper/issues)
+- Open een [GitHub Issue](https://github.com/SergeHanssens/digitale_zorg/issues)
 - Beschrijf je probleem zo volledig mogelijk
 - Voeg screenshots toe indien relevant
 

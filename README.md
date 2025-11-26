@@ -64,8 +64,8 @@ InclusieHelper is een privacy-first webapplicatie die leerkrachten, zorgcoördin
 ### Stap 1: Clone de repository
 
 ```bash
-git clone https://github.com/JOUW-USERNAME/inclusiehelper.git
-cd inclusiehelper
+git clone https://github.com/SergeHanssens/digitale_zorg.git
+cd digitale_zorg
 ```
 
 ### Stap 2: Installeer dependencies
@@ -252,7 +252,7 @@ Zie het [LICENSE](LICENSE) bestand voor details.
 
 Heb je vragen of problemen?
 
-- Open een [GitHub Issue](https://github.com/JOUW-USERNAME/inclusiehelper/issues)
+- Open een [GitHub Issue](https://github.com/SergeHanssens/digitale_zorg/issues)
 - Bekijk bestaande issues voor oplossingen
 
 ---
